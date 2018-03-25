@@ -51,11 +51,9 @@ Para comprobar que realmente nos enfocamos en las necesidades del usuario, cream
 * ¿Recibir beneficios te haría viajar de forma frecuente?
 * ¿Si tuvieras un beneficio por ser usuario frecuente, cómo te gustaría que se te premiara?
 
-<hr>
 
 ## RESULTADOS 
 
-<hr>
 
 ## OBJETIVO DE NEGOCIO
 
@@ -63,7 +61,6 @@ Dentro de nuestros resultados encontramos que ninguna línea de autobus ofrecía
 
 Como segundo objetivo tenemos diseñar y prototipar una landingPage que cuente a los usuarios los beneficios que tendrían por viajar frecuentemente. 
 
-<hr>
 
 ## IMPLEMENTANDO SOLUCIÓN 
 
