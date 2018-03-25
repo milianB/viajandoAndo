@@ -2,50 +2,32 @@
 * *Especialidad:* UX Designer
 * *Sprint 01:*  __
 
-Para este primer sprint, 
+Para este primer sprint de la especialidad UX Designer el reto es identificar de que manera podríamos mejorar el journey de un usuario que viaja regularmente a Cuernavaca teniendo como producto final una landingPage que promocione nuestra idea de mejora. 
 
 <hr>
 
-## Problema
+## DEFINIENDO AL USUARIO 
 
-Se acercó a nosotros el __ de la organización Save The Children para encontrar la manera de aumentar el número de conversiones a través de la optimización de una landingPage, esto debido a que sólo el .5% de los visitantes en landinPage se convierte en donante por lo que urge una reestructuración en este canal de ingreso de donantes.
+Juan Pérez es un suario que viaja todos los días por motivos laborales a la CMDX. Tiene 35 años, es soltero, estudi+o una licenciatura, vive en Cuernavaca en una casa propia por lo que prefiere transladarse a su trabajo en camión que venir a la capital a rentar un departamento, esto debido a que gana al rededor de $13,000 pesos y no le alcanzaría a cubrir todos sus gastos.  
 
+Sin embargo, nuestro usuario gasta demasiado dinero al viajar y además, no recibe nindún veneficio al elegir siempre la misma opción, es decir que la empresa de autobuses con la que viaja no le remunera su fidelidad. 
 
-Teniendo clara la dolencia del cliente, comenzamos a investigar y entender el modelo de negocio de Save the children a través de la contrucción del *Bussines Model Canva*
+![user_persona](assets/images/user.png)
 
-![Fortalezas y Oportunidades](assets/images/bussines.png)
+**CUSTOMER JOURNEY MAP
+
+Para entender mejor el journey del usuario, construimos un mapa con las actividades principales desde que decide viajar hasta que aborda su autobus y pensando en lo que podría pasar al viajar de nuevo. 
+
+![customer_journey](assets/images/customer.png)
+
+La construcción del journey nos permitó crear el **MAPA DE EMPATÍA** para entender lo que piensa, ve y hace el ususario, visualizando de manera clara sus necesidades. 
+
+![Empaty_Map](assets/images/empaty.png)
 
 <hr>
 
-## Definiendo Objetivo de Negocio
+## DEFINIENDO OBJETIVO DE NEGOCIO
 
-Después de analizar y entender a nuestro cliente y como funciona la organización, nos dimos a la tarea de profundizar en las áreas de oportunidad y así poder tener claro cuál será nuestro objetivo e ir planeando estrategias para realizarlo.
-
-*FODA*
-
-El FODA es una herramienta que nos ayudó a identificar cuales eran exactamente las Fortalezas, Oportunidades, Debilidades y Amenanzas de Save The Children
-
-![Fortalezas y Oportunidades](assets/images/FO.png)
-![Fortalezas y Oportunidades](assets/images/DA.png)
-
-*ESTRATEGIAS FODA*
-
-![Fortalezas y Oportunidades](assets/images/estrategias.png)
-
-*OBJETIVO SMART*
-
-Ya que hicimos la descripción de las estrategias, ahora definiremos el objetivo SMART
-
-*SPECIFIC* Optimizar únicamente el canal de conversiones, landingPage
-
-*MEASURABLE*
-Porcentaje de donaciones
-
-*ATTAINABLE* Ya que el porcentaje de conversioneses de .5% nuestro objetivo intenta aumentarlo a 10% por lo que creemos que es totalmente alcanzable.
-
-*RELEVANT* Con esta estrategia aumentaremos radicalemente el número de donaciones, cumpliendo el objetivo de negocio.
-
-*TIME* En un periodo de 3 meses haremos que sea posible este incremento.
 
 
 ## *OBJETIVO DE NEGOCIO*
