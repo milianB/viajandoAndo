@@ -40,16 +40,16 @@ Los principales dolores del usuario al viajara a Cuernavaca es que no están rec
 
 Para comprobar que realmente nos enfocamos en las necesidades del usuario, creamos una encuesta en **TypeForm** validando nuestra información con las siguintes preguntas: 
 
-*¿A qué te dedicas?
-*¿Cuál es tu ingreso mensual?
-*¿Con qué frecuencia realizas viajes fuera de tu ciudad?
-*¿Qué línea de autobuses eliges para viajar?
-*¿Qué medio usas para comprar tus boletos de viaje?
-*Conoces alguna compañía de autobuses que ofrezca algún beneficio a sus usuarios, si tu respuesta es si continua con la siguiente pregunta
-*¿Cuál? y ¿Qué beneficio ofrece?
-*¿Qué te parece la idea de registrar todos tus viajes para que puedas acumular puntos y así tener beneficios?
-*¿Recibir beneficios te haría viajar de forma frecuente?
-*¿Si tuvieras un beneficio por ser usuario frecuente, cómo te gustaría que se te premiara?
+* ¿A qué te dedicas?
+* ¿Cuál es tu ingreso mensual?
+* ¿Con qué frecuencia realizas viajes fuera de tu ciudad?
+* ¿Qué línea de autobuses eliges para viajar?
+* ¿Qué medio usas para comprar tus boletos de viaje?
+* Conoces alguna compañía de autobuses que ofrezca algún beneficio a sus usuarios, si tu respuesta es si continua con la siguiente pregunta
+* ¿Cuál? y ¿Qué beneficio ofrece?
+* ¿Qué te parece la idea de registrar todos tus viajes para que puedas acumular puntos y así tener beneficios?
+* ¿Recibir beneficios te haría viajar de forma frecuente?
+* ¿Si tuvieras un beneficio por ser usuario frecuente, cómo te gustaría que se te premiara?
 
 <hr>
 
@@ -57,9 +57,9 @@ Para comprobar que realmente nos enfocamos en las necesidades del usuario, cream
 
 <hr>
 
-## *OBJETIVO DE NEGOCIO*
+## OBJETIVO DE NEGOCIO
 
-Dentro de nuestros resultados encontramos que ninguna línea de autobus ofrecía a sus clientes ningún programa de beneficios a usuarios frecuentes. Considerando que las personas a las que encuestamos contestaron que viajarían de manera más regular si existiera un programa de viajeros, nuestro objetivo de negocio es optimizar un programa de viajeros frecuentes a través de la acumulación de ppuntos para ser cambiados por descuentos, viajes gratis o souvenirs. 
+Dentro de nuestros resultados encontramos que ninguna línea de autobus ofrecía a sus clientes ningún programa de beneficios a usuarios frecuentes. Considerando que las personas a las que encuestamos contestaron que viajarían de manera más regular si existiera un programa de viajeros, nuestro objetivo de negocio es optimizar un programa de viajeros frecuentes a través de la acumulación de puntos para ser cambiados por descuentos, viajes gratis o souvenirs. 
 
 Como segundo objetivo tenemos diseñar y prototipar una landingPage que cuente a los usuarios los beneficios que tendrían por viajar frecuentemente. 
 
