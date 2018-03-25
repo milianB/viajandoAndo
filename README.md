@@ -24,7 +24,7 @@ La construcción del journey nos permitó crear el **MAPA DE EMPATÍA** para ent
 
 ![Empaty_Map](assets/images/empaty.png)
 
-<hr>
+
 
 ## OBJETIVO DE USUARIO
 
@@ -34,7 +34,7 @@ Recibir algún beneficio por utilizar la misma línea de autobuses en todos sus 
 
 Los principales dolores del usuario al viajara a Cuernavaca es que no están recibiendo algún benenficio a cambio de viajar frecuentemente con la misma líne a de autobus, por lo que consideramos que si hubiera un tipo de reforzador para el viajero (descuentos, regalos, viajes gratis) ayudaría a su economía y a que su experiencia sea la mejor. 
 
-<hr>
+
 
 ## VALIDANDO INFORMACIÓN
 
