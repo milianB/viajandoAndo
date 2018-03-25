@@ -4,7 +4,7 @@
 
 Para este primer sprint de la especialidad UX Designer el reto es identificar de que manera podríamos mejorar el journey de un usuario que viaja regularmente a Cuernavaca teniendo como producto final una landingPage que promocione nuestra idea de mejora. 
 
-<hr>
+
 
 ## DEFINIENDO AL USUARIO 
 
