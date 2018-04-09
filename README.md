@@ -22,22 +22,20 @@ Para este primer sprint de la especialidad UX Designer, el reto es identificar d
 3. Definir objetivo para solución 
 4. Crear hipótesis a validar
 5. Validar solución 
-    5.1 Crear instrumento 
-    5.2 Promover encuesta en grupos que hagan match con el perfil del usuario propuesto
+    - 5.1 Crear instrumento 
+    - 5.2 Promover encuesta en grupos que hagan match con el perfil del usuario propuesto
 6. Insights
 7. Implementar solución: landingPage
 8. Feedback del producto
-    8.1 Clase
-    8.2 Testeando con usuarios en tiempo real: Hotjar
-    8.3 Mejorando producto: insigths
+    - 8.1 Clase
+    - 8.2 Testeando con usuarios en tiempo real: Hotjar
+    - 8.3 Mejorando producto: insigths
 9. Implementar solución: V2 ViajandoAndo
 10. Presentación de solución: Open House
 
 <hr>
 
 ## DEFINIENDO AL USUARIO 
-
-
 
 Juan Pérez es un suario que viaja todos los días por motivos laborales a la CMDX. Tiene 35 años, es soltero, estudi+o una licenciatura, vive en Cuernavaca en una casa propia por lo que prefiere transladarse a su trabajo en camión que venir a la capital a rentar un departamento, esto debido a que gana al rededor de $13,000 pesos y no le alcanzaría a cubrir todos sus gastos.  
 
