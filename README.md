@@ -15,21 +15,21 @@ Para este primer sprint de la especialidad UX Designer, el reto es identificar d
 
 1. Definir roles
 2. Entender el problema del usuario y del cliente a través de las siguientes herramientas. 
-  * 2.1 Detectar la oportunidad de negocio (FODA-PESTEL-PARETOS)
-  * 2.2 Construir el **Coustomer Journey Map** 
-  * 2.3 Construir **Mapa de Empatía** 
-  * 2.4 Definir al usuario
+    2.1 Detectar la oportunidad de negocio (FODA-PESTEL-PARETOS)
+    2.2 Construir el **Coustomer Journey Map** 
+    2.3 Construir **Mapa de Empatía** 
+    2.4 Definir al usuario
 3. Definir objetivo para solución 
 4. Crear hipótesis a validar
 5. Validar solución 
-  * 5.1 Crear instrumento 
-  * 5.2 Promover encuesta en grupos que hagan match con el perfil del usuario propuesto
+    5.1 Crear instrumento 
+    5.2 Promover encuesta en grupos que hagan match con el perfil del usuario propuesto
 6. Insights
 7. Implementar solución: landingPage
 8. Feedback del producto
-  * 8.1 Clase
-  * 8.2 Testeando con usuarios en tiempo real: Hotjar
-  * 8.3 Mejorando producto: insigths
+    8.1 Clase
+    8.2 Testeando con usuarios en tiempo real: Hotjar
+    8.3 Mejorando producto: insigths
 9. Implementar solución: V2 ViajandoAndo
 10. Presentación de solución: Open House
 
