@@ -6,11 +6,6 @@ Para este primer sprint de la especialidad UX Designer, el reto es identificar d
 
 <hr>
 
-**Team.** 
-* Product Owner: Brenda Milián
-* UX Research: Abril Juárez
-* UX Designer: May Cravioto
-
 **Proceso**
 
 1. Definir roles
@@ -35,39 +30,57 @@ Para este primer sprint de la especialidad UX Designer, el reto es identificar d
 
 <hr>
 
-## DEFINIENDO AL USUARIO 
+## 1. DEFINIR ROLES
 
-Juan Pérez es un suario que viaja todos los días por motivos laborales a la CMDX. Tiene 35 años, es soltero, estudi+o una licenciatura, vive en Cuernavaca en una casa propia por lo que prefiere transladarse a su trabajo en camión que venir a la capital a rentar un departamento, esto debido a que gana al rededor de $13,000 pesos y no le alcanzaría a cubrir todos sus gastos.  
+**Team.** 
+* Product Owner: Brenda Milián
+* UX Research: Abril Juárez
+* UX Designer: May Cravioto
 
-Sin embargo, nuestro usuario gasta demasiado dinero al viajar y además, no recibe nindún veneficio al elegir siempre la misma opción, es decir que la empresa de autobuses con la que viaja no le remunera su fidelidad. 
+<hr>
 
-![user_persona](assets/images/user.png)
+## 2. ENTENDIENDO EL PROBLEMA
 
-**CUSTOMER JOURNEY MAP**
+Tenemos el reto de idear una solución para los usuarios frecuentes de líneas de autobuses que viajan al estado de Cuernavaca. Para idear una solución, queremos conocer y entender a nuestro cliente, tanto en sus fortalezas como en áreas de oportunidad. Para esto nos valdremos de herramientas que se utilizan en el marketing y que nos permitirán atender con mejor precisión tanto al cliente como al usuario y así diseñar por completo una experiencia satisfactoria. 
+    
+   **2.1 CUSTOMER JOURNEY MAP**
 
 Para entender mejor el journey del usuario, construimos un mapa con las actividades principales desde que decide viajar hasta que aborda su autobus y pensando en lo que podría pasar al viajar de nuevo. 
 
 ![customer_journey](assets/images/customer.png)
 
-La construcción del journey nos permitó crear el **MAPA DE EMPATÍA** para entender lo que piensa, ve y hace el ususario, visualizando de manera clara sus necesidades. 
+   **2.2 MAPA DE EMPATÍA**
+
+La construcción del journey nos permitó crear el cuadro de empatía para entender lo que piensa, ve y hace el ususario, visualizando de manera clara sus necesidades. 
 
 ![Empaty_Map](assets/images/empaty.png)
 
+   **2.3 DEFINIENDO AL USUARIO**
 
+Juan Pérez es un suario que viaja todos los días por motivos laborales a la CMDX. Tiene 35 años, es soltero, estudió una licenciatura, vive en Cuernavaca en una casa propia por lo que prefiere transladarse a su trabajo en camión que venir a la capital a rentar un departamento, esto debido a que gana al rededor de $13,000 pesos y no le alcanzaría a cubrir todos sus gastos.  
 
-## OBJETIVO DE USUARIO
+Sin embargo, nuestro usuario gasta demasiado dinero al viajar y además, no recibe nindún veneficio al elegir siempre la misma opción, es decir que la empresa de autobuses con la que viaja no le remunera su fidelidad. 
+
+![user_persona](assets/images/user.png)
+
+## 3. DEFINIR OBJETIVO PARA LA SOLUCIÓN
+
+Dentro de nuestros resultados encontramos que ninguna línea de autobus ofrecía a sus clientes ningún programa de beneficios a usuarios frecuentes. Considerando que las personas a las que encuestamos contestaron que viajarían de manera más regular si existiera un programa de viajeros, nuestro objetivo de negocio es optimizar un programa de viajeros frecuentes a través de la acumulación de puntos para ser cambiados por descuentos, viajes gratis o souvenirs. 
+
+Como segundo objetivo tenemos diseñar y prototipar una landingPage que cuente a los usuarios los beneficios que tendrían por viajar frecuentemente. 
+
+**OBJETIVO DE USUARIO**
 
 Recibir algún beneficio por utilizar la misma línea de autobuses en todos sus viajes, de tal manera que pueda ahorrar y así mejorar sus finanzas.
 
-## HIPÓTESIS
+## 4. CREAR HIPÓTESIS A VALIDAR
 
 Los principales dolores del usuario al viajara a Cuernavaca es que no están recibiendo algún benenficio a cambio de viajar frecuentemente con la misma líne a de autobus, por lo que consideramos que si hubiera un tipo de reforzador para el viajero (descuentos, regalos, viajes gratis) ayudaría a su economía y a que su experiencia sea la mejor. 
 
-
-
-## VALIDANDO INFORMACIÓN
-
+## 5. VALIDAR SOLUCIÓN 
 Para comprobar que realmente nos enfocamos en las necesidades del usuario, creamos una encuesta en **TypeForm** validando nuestra información con las siguintes preguntas: 
+
+   **5.1 CREAR INSTRUMENTO** 
 
 * ¿A qué te dedicas?
 * ¿Cuál es tu ingreso mensual?
@@ -79,17 +92,18 @@ Para comprobar que realmente nos enfocamos en las necesidades del usuario, cream
 * ¿Qué te parece la idea de registrar todos tus viajes para que puedas acumular puntos y así tener beneficios?
 * ¿Recibir beneficios te haría viajar de forma frecuente?
 * ¿Si tuvieras un beneficio por ser usuario frecuente, cómo te gustaría que se te premiara?
+   
+   **5.2 Promover encuesta en grupos que hagan match con el perfil del usuario propuesto**
+   
+## 6. INSIGHTS
 
+## 7. IMPLEMENTAR SOLUCIÓN: LANDINGPAGE
 
-## RESULTADOS 
+## 8. FEEDBACK DEL PRODUCTO
+   **8.1 Clase**
+   **8.2 Testeando con usuarios en tiempo real: Hotjar**
+   **8.3 Mejorando producto: insigths**
+   
+## 9. IMPLEMENTAR SOLUCIÓN: VIAJANDO ANDO V2. 
 
-
-## OBJETIVO DE NEGOCIO
-
-Dentro de nuestros resultados encontramos que ninguna línea de autobus ofrecía a sus clientes ningún programa de beneficios a usuarios frecuentes. Considerando que las personas a las que encuestamos contestaron que viajarían de manera más regular si existiera un programa de viajeros, nuestro objetivo de negocio es optimizar un programa de viajeros frecuentes a través de la acumulación de puntos para ser cambiados por descuentos, viajes gratis o souvenirs. 
-
-Como segundo objetivo tenemos diseñar y prototipar una landingPage que cuente a los usuarios los beneficios que tendrían por viajar frecuentemente. 
-
-
-## IMPLEMENTANDO SOLUCIÓN 
-
+## 10. PRESENTACIÓN DE LA SOLUCIÓN: OPEN HOUSE
